@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 ### Frontend (Next.js)
 
-**1. Instale as dependências do `Node.js`:
+**1. Instale as dependências do `Node.js`:**
 
 ```bash
 
